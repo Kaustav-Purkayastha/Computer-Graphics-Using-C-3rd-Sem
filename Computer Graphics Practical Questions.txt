@@ -1,0 +1,15 @@
+LIST OF PRACTICAL QUESTIONS:
+
+1. Write a C program to implement DDA Line Drawing Algorithm.
+
+2. Write a C program to implement Bresenham's Line Drawing Algorithm.
+
+3. Write a C program to implement Mid-Point Circle Drawing Algorithm.
+
+4. Write a C program to draw a Bezier Curve.
+
+5. Write a C program to clip a line using Cohen-Sutherland Line Clipping Algorithm.
+
+
+
+
